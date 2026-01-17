@@ -2,7 +2,7 @@
 
 Welcome! This is where I'm storing my Python projects as I learn to code.
 
-## Projects
+## Project(s)
 
 ### 1. Mad Libs Story Generator
 A fun interactive word game that creates silly stories based on user input!
@@ -38,7 +38,7 @@ A fun interactive word game that creates silly stories based on user input!
 **January 2025** - Started learning Python from scratch!
 - Built first project: Mad Libs Game 🎉
 
-- ## 🚀 Next Steps
+## 🚀 Next Steps
 
 - Build a tip calculator
 - Create a temperature converter
