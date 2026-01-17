@@ -10,7 +10,7 @@ A fun interactive word game that creates silly stories based on user input!
   
 **What it does:**
 - Asks for 6 different inputs (weather, season, animal, adjective, verb, place)
-- Creates a funny 2-sentence story using those words
+- Creates a funny 4-sentence story using those words
 - Decorated with emojis for a fun experience!
 
 **Skills practiced:**
