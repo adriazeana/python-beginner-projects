@@ -79,7 +79,7 @@ Attempts remaining: 4
 
 Enter your guess: 25
 🎉 Congratulations! You guessed the correct number in 2 attempts.
-⏱️  You finished the game in 15.23 seconds.
+⏱️ You finished the game in 15.23 seconds.
 
 Do you want to play another round? (yes/no): yes
 ```
