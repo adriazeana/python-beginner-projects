@@ -100,7 +100,7 @@ def play_game():
 
             # Display the message and time taken
             print(f"🎉 Congratulations! You guessed the correct number in {attempts} attempts.")
-            print(f"⏱️  You finished the game in {duration:.2f} seconds.")
+            print(f"⏱️ You finished the game in {duration:.2f} seconds.")
 
             won = True
             break
@@ -116,7 +116,7 @@ def play_game():
         end_time = time.time()
         duration = end_time - start_time
         print(f"😢 Sorry, you ran out of attempts! The secret number was {secret_number}.")
-        print(f"⏱️  You tried for {duration:.2f} seconds.")
+        print(f"⏱️ You tried for {duration:.2f} seconds.")
 
 # Main game loop
 while True:
@@ -128,4 +128,5 @@ while True:
     # Check the user's input to break the loop
     if play_again.lower() != "yes":
         print("Thanks for playing! Bye bye ^^")
+
         break
