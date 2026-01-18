@@ -24,8 +24,8 @@ A fun interactive word game that creates silly stories based on user input!
 ---
 
 ### 2. 🎮 Number Guessing Game
-**File:** `guessing_game.py`
-**Project URL:** https://roadmap.sh/projects/number-guessing-game
+- **File:** `guessing_game.py`
+- **Project URL:** https://roadmap.sh/projects/number-guessing-game
 
 A CLI-based number guessing game where the computer picks a random number between 1-100 and you try to guess it!
   
